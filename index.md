@@ -14,19 +14,20 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 ### Mis Skills son
 
 - Python
-- R
+- SQL (SQL Server, PostgreSQL, Oracle SQL)
+- SSIS
+- Power BI
 - Excel
-- ...
+
 
 ---
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
-- [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
-- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- [LinkedIn](https://www.linkedin.com/in/jose-donoso-palomino/)
+- Correo electrónico a <j.donoso100@gmail.com>
+- [GitHub](https://github.com/jdonosop/)
+- [Medium](https://medium.com/@j.donoso100)
+- [Mi CV](/pdf/last_cv.pdf)
 
 ---
