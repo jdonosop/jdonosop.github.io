@@ -25,7 +25,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 ### Me puedes contactar por una de estás vías
 
 - [LinkedIn](https://www.linkedin.com/in/jose-donoso-palomino/)
-- Correo electrónico a <j.donoso100@gmail.com>
+- Correo electrónico a <j.donosop@outlook.com>
 - [GitHub](https://github.com/jdonosop/)
 - [Medium](https://medium.com/@j.donoso100)
 - [Mi CV](/pdf/last_cv.pdf)
