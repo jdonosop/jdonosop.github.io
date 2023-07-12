@@ -3,11 +3,11 @@
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
+[Análisis de datos con Python para la compraventa de vehículos]([https://medium.com/pagina-entrada-blog](https://medium.com/@j.donoso100/an%C3%A1lisis-de-datos-con-python-para-la-compraventa-de-veh%C3%ADculos-cd1bb64135bf))
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+Apoyándonos en datos recopilados y usando la potencia de Pandas y Matplotlib, desciframos el mercado de compraventa de vehículos de segunda mano en España. [Seguir leyendo en Medium](https://medium.com/@j.donoso100/an%C3%A1lisis-de-datos-con-python-para-la-compraventa-de-veh%C3%ADculos-cd1bb64135bf) o [Ver código en GitHub](https://github.com/jdonosop/proyecto-portafolio)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/thumbnail.jpg?raw=true"/>](https://medium.com/@j.donoso100/an%C3%A1lisis-de-datos-con-python-para-la-compraventa-de-veh%C3%ADculos-cd1bb64135bf)
 
 ---
 
